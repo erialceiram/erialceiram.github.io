@@ -1,6 +1,5 @@
 # erialceiram.github.io
-css-project
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
